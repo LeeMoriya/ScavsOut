@@ -11,4 +11,4 @@ This mod comes with three options that are enabled by default, they can be enabl
 
 **This mod requires ConfigMachine**
 
-Download the latest release of ScavsOut! [Here]
+Download the latest release of ScavsOut! [[Here]](https://github.com/LeeMoriya/ScavsOut/releases/tag/v1.00)
